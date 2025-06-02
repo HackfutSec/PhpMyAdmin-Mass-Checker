@@ -2,10 +2,9 @@ Here's a professional `README.md` for your GitHub repository:
 
 ```markdown
 # PhpMyAdmin Mass Checker 🔍
+## Screenshots 🖼️
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Twitter](https://img.shields.io/twitter/follow/HackfutS3c?style=social)
+![Demo](https://i.postimg.cc/PJZcWLNC/Screenshot-2025-06-02-5.png)
 
 Advanced multi-threaded phpMyAdmin credential verification tool with intelligent path detection and CSRF handling.
 
@@ -59,7 +58,7 @@ http://domain.com/phpmyadmin username password
 
 ## Screenshots 🖼️
 
-![Demo](https://i.imgur.com/example.png) *(example screenshot)*
+![Demo](https://i.postimg.cc/PJZcWLNC/Screenshot-2025-06-02-5.png)
 
 ## Disclaimer ⚠️
 
