@@ -1,0 +1,16 @@
+# Core Dependencies
+requests==2.31.0
+colorama==0.4.6
+urllib3==2.0.4
+
+# Security/SSL
+pyOpenSSL==23.2.0
+cryptography==41.0.3
+
+# Performance
+urllib3-secure-extra==0.1.0
+threadpoolctl==3.2.0
+
+# Compatibility
+charset-normalizer==3.2.0
+idna==3.4
