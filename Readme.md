@@ -74,6 +74,7 @@ This tool is intended for:
 For questions or support:
 - Twitter: [@HackfutS3c](https://twitter.com/HackfutS3c)
 - Telegram: @HackfutS3c
+- Channel Telegram: [security](https://t.me/sellerW3bshell)
 
 ## License 📜
 
